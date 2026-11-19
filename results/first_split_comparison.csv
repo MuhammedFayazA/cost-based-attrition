@@ -1,0 +1,6 @@
+Question,Group size,Leaver rate,Gini drop,Cost drop
+OverTime = Yes,302,0.28,0.0127,214
+YearsAtCompany <= 2,238,0.33,0.0167,230
+TotalWorkingYears <= 2,81,0.53,0.0233,177
+JobLevel = 1,362,0.27,0.0117,214
+MonthlyIncome <= 3000,260,0.3,0.013,208

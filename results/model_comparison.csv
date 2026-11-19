@@ -1,0 +1,5 @@
+Model,Accuracy,Leavers caught,Leavers missed,False alarms,Total cost
+Ordinary CART (Gini),0.83,17,54,21,291
+Cost-based tree,0.707,38,33,96,261
+Cost-weighted CART,0.737,43,28,88,228
+No model (everyone Stays),0.839,0,71,0,355
